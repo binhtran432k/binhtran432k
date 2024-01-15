@@ -2,7 +2,7 @@
 
 [![Binh's github stats](https://github-readme-stats.vercel.app/api?username=binhtran432k&count_private=true&show_icons=true)](https://github.com/binhtran432k)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binhtran432k&hide=html,css)](https://github.com/binhtran432k)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binhtran432k&hide=html,css&size_weight=0.5&count_weight=0.5&langs_count=10&layout=compact)](https://github.com/binhtran432k)
 
 <!--
 **binhtran432k/binhtran432k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
