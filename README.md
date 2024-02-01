@@ -1,17 +1,11 @@
 ### Hi there 👋
 
-I'm a self-taught developer with over three years of hands-on experience,
-actively contributing to open-source projects.
+I am a self-taught developer with over three years of hands-on experience, actively contributing to open-source projects.
+I enjoy learning on my own and collaborating with teams, being versatile across frontend, backend, testing, and automation.
 
-I enjoy learning on my own and collaborating with teams. Whether it's frontend,
-backend, testing, or automating tasks, I like being versatile.
-
-I love trying out new technologies in my pet projects. I also contribute to
-open source and tweak my dotfiles and Neovim setup for a better coding
-experience.
-
-Most importantly, I believe in keeping things fun, collaborating well,
-including everyone, and being true to myself on this journey!
+I love experimenting with new technologies in my pet projects and contribute to open source while refining my coding
+environment through dotfiles and Neovim setup.
+Most importantly, my journey is about keeping things fun, fostering collaboration, inclusivity, and staying true to myself.
 
 [![Binh's github stats](https://github-readme-stats.vercel.app/api?username=binhtran432k&theme=dracula&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=binhtran432k&theme=dracula&count_private=true&show_icons=true)
 
