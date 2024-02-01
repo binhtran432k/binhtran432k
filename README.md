@@ -13,7 +13,7 @@ experience.
 Most importantly, I believe in keeping things fun, collaborating well,
 including everyone, and being true to myself on this journey!
 
-[![Binh's github stats](https://github-readme-stats.vercel.app/api?username=binhtran432k&theme=dracula&count_private=true&show_icons=true)]([https://github.com/binhtran432k](https://github-readme-stats.vercel.app/api?username=binhtran432k&theme=dracula&count_private=true&show_icons=true))
+[![Binh's github stats](https://github-readme-stats.vercel.app/api?username=binhtran432k&theme=dracula&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=binhtran432k&theme=dracula&count_private=true&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=binhtran432k&theme=dracula)](https://streak-stats.demolab.com/?user=binhtran432k&theme=dracula)
 
