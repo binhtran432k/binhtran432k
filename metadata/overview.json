@@ -23,9 +23,13 @@
 		"url": "https://binhtran432k.com"
 	},
 	"job": "Fullstack Developer | Automation Tester",
-	"description": "Self-taught developer with 3+ years of experience, actively contributing to open-source projects. Possesses strong versatility across frontend, backend, testing, and automation. Enjoys learning, collaboration, and experimenting with new technologies. Passionate about fostering a positive, inclusive development environment.",
+	"summary": "Self-taught developer with 3+ years of experience, actively contributing to open-source projects. Possesses strong versatility across frontend, backend, testing, and automation. Enjoys learning, collaboration, and experimenting with new technologies. Passionate about fostering a positive, inclusive development environment.",
 	"avatar": {
 		"url": "https://binhtran432k.github.io/binhtran432k/assets/avatar.jpg",
 		"position": "50% 50%"
+	},
+	"quote": {
+		"value": "Only those who dare to fail greatly can ever achieve greatly.",
+		"author": "Robert F. Kennedy"
 	}
 }
