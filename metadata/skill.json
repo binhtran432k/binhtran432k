@@ -1,0 +1,53 @@
+{
+	"categories": [
+		{
+			"name": "Soft Skills",
+			"skills": [
+				"Collaboration",
+				"Communication",
+				"Problem-solving",
+				"Adaptability"
+			]
+		},
+		{
+			"name": "Front-end",
+			"skills": [
+				"React/Preact/Million",
+				"Qwik",
+				"Redux",
+				"Bootstrap",
+				"Tailwind CSS"
+			]
+		},
+		{
+			"name": "Back-end",
+			"skills": ["Spring Boot", "Express"]
+		},
+		{
+			"name": "DevOps",
+			"skills": ["Docker", "Github Action"]
+		},
+		{
+			"name": "Programming",
+			"skills": [
+				"Javascript/Typescript",
+				"Java",
+				"Python",
+				"C#",
+				"C",
+				"C++",
+				"Lua",
+				"Rust",
+				"Zig",
+				"Golang",
+				"Dart"
+			]
+		},
+		{
+			"name": "Package Manager",
+			"skills": ["Node.js", "Bun", "Cargo", "Maven", "Gradle"]
+		},
+		{ "name": "Languages", "skills": ["Vietnamese", "English"] },
+		{ "name": "Others", "skills": ["Shell", "SQL", "Git", "Linux", "Makefile"] }
+	]
+}
