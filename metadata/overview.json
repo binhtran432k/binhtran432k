@@ -1,0 +1,31 @@
+{
+	"firstName": "Binh",
+	"middleName": "Duc",
+	"lastName": "Tran",
+	"phone": {
+		"value": "+84 8 32 30 61 05",
+		"url": "tel:+84832306105"
+	},
+	"email": {
+		"value": "binhtran432k@gmail.com",
+		"url": "mailto:binhtran432k@gmail.com"
+	},
+	"github": {
+		"value": "github.com/binhtran432k",
+		"url": "https://github.com/binhtran432k"
+	},
+	"linkedin": {
+		"value": "linkedin.com/in/binhtran432k",
+		"url": "https://www.linkedin.com/in/binhtran432k"
+	},
+	"website": {
+		"value": "binhtran432k.com",
+		"url": "https://binhtran432k.com"
+	},
+	"job": "Fullstack Developer | Automation Tester",
+	"description": "Self-taught developer with 3+ years of experience, actively contributing to open-source projects. Possesses strong versatility across frontend, backend, testing, and automation. Enjoys learning, collaboration, and experimenting with new technologies. Passionate about fostering a positive, inclusive development environment.",
+	"avatar": {
+		"url": "https://binhtran432k.github.io/binhtran432k/assets/avatar.jpg",
+		"position": "50% 50%"
+	}
+}
