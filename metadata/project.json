@@ -1,0 +1,37 @@
+{
+	"widgets": [
+		{
+			"title": "Personal Curriculum Vitae",
+			"subtitle": "Author & Maintainer",
+			"items": [
+				"Source Code: <a href='https://github.com/binhtran432k/cv' target='_blank'>github.com/binhtran432k/cv</a>",
+				"Deployed Site: <a href='https://binhtran432k.com' target='_blank'>binhtran432k.com</a>",
+				"Description: Personal Curriculum Vitae using Qwik with browser print compatibility",
+				"Feature: Static Site Generation | Server Site Rendering | Browser Printing | Github Page Deployment",
+				"Technology: Qwik/Qwik City | Vite | Typescript | Bun | Semantic Release | CI/CD"
+			]
+		},
+		{
+			"title": "Movie Viewer",
+			"subtitle": "Author & Maintainer",
+			"items": [
+				"Source Code: <a href='https://github.com/binhtran432k/movie-preact' target='_blank'>github.com/binhtran432k/movie-preact</a>",
+				"Deployed Site: <a href='https://movie.binhtran432k.com' target='_blank'>movie.binhtran432k.com</a>",
+				"API: <a href='https://developer.themoviedb.org/docs/getting-started' target='_blank'>themoviedb.org</a>",
+				"Description: A Lightweight Preact App provides browse and search movies with ease",
+				"Feature: Trending Spotlight | Movie Browsing | Movie Details & Trailers | Search Movies",
+				"Technology: Preact/React/Million | Tailwind CSS | Vite | Typescript | Biome | Bun | Commitlint | Semantic Release | CI/CD"
+			]
+		},
+		{
+			"title": "PlantUML Previewer",
+			"subtitle": "Author & Maintainer",
+			"items": [
+				"Source Code: <a href='https://github.com/binhtran432k/plantuml-previewer' target='_blank'>github.com/binhtran432k/plantuml-previewer</a>",
+				"Description: Image Previewer for PlantUML in Java Swing",
+				"Feature: UML Previewer | Hot Reloading | Zooming | VIM Key binding | Embedded PLantUML",
+				"Technology: Java | Swing | PlantUML"
+			]
+		}
+	]
+}
