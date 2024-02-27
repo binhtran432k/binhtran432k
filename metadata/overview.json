@@ -2,6 +2,7 @@
 	"firstName": "Binh",
 	"middleName": "Duc",
 	"lastName": "Tran",
+	"address": "District 12, Ho Chi Minh City, Vietnam",
 	"phone": {
 		"value": "+84 8 32 30 61 05",
 		"url": "tel:+84832306105"
