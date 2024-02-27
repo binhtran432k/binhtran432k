@@ -1,0 +1,45 @@
+{
+	"widgets": [
+		{
+			"imageUrl": "http://localhost:5500/assets/logos/cucumber.svg",
+			"title": "Open Cucumber Organization",
+			"subtitle": "Committer",
+			"location": "Online",
+			"timeline": "2023 - Present",
+			"items": [
+				"Bug Resolution: Identified and fixed bugs in the codebase, ensuring software stability and improving user experience.",
+				"Neovim Maintenance: Maintained and optimized usage resources for Neovim integration, streamlining development workflows.",
+				"International Collaboration: Collaborated with users worldwide to address issues, share knowledge, and contribute to a global community of Cucumber users.",
+				"NPM Package Release & CI/CD: Established and implemented a continuous integration and deployment (CI/CD) pipeline utilizing GitHub Actions to automate the building, testing, and publishing of related npm packages for the pre-release versions of the Cucumber project."
+			]
+		},
+		{
+			"imageUrl": "https://binhtran432k.github.io/binhtran432k/assets/logos/nashtech.svg",
+			"title": "NashTech",
+			"subtitle": "Automation Tester",
+			"timeline": "Sep 2022 - Dec 2022",
+			"location": "Ho Chi Minh, Vietnam",
+			"items": [
+				"Agile Methodologies: Proficient in implementing agile testing practices for continuous development and delivery.",
+				"Test Case Design: Skilled in crafting effective test cases to identify potential defects across various functionalities.",
+				"API Testing: Possess the ability to create and execute automated tests for APIs using relevant tools.",
+				"Database Testing: Comfortable writing and executing SQL queries for verification and testing purposes.",
+				"Accessibility Testing: Committed to ensuring software applications are inclusive and accessible for all users.",
+				"Cypress Framework: Experienced in using Cypress for automating web application testing."
+			]
+		},
+		{
+			"imageUrl": "https://binhtran432k.github.io/binhtran432k/assets/logos/fsoft.svg",
+			"title": "FPT Software",
+			"subtitle": "Java Web Developer",
+			"timeline": "Jun 2021 - Dec 2021",
+			"location": "Ho Chi Minh, Vietnam",
+			"items": [
+				"Developed and maintained software applications using Java, Spring Boot, and web technologies (HTML, CSS, JavaScript).",
+				"Designed and implemented database solutions using SQL for data management and manipulation.",
+				"Created and executed comprehensive test cases to ensure software functionality and quality.",
+				"Contributed to a positive and collaborative work environment through open communication and teamwork."
+			]
+		}
+	]
+}
