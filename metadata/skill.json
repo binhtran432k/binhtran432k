@@ -24,6 +24,10 @@
 			"skills": ["Spring Boot", "Express"]
 		},
 		{
+			"name": "Automation",
+			"skills": ["Selenium", "Cypress", "Playwright"]
+		},
+		{
 			"name": "DevOps",
 			"skills": ["Docker", "Github Action"]
 		},
@@ -33,10 +37,10 @@
 				"Javascript/Typescript",
 				"Java",
 				"Python",
+				"Lua",
 				"C#",
 				"C",
 				"C++",
-				"Lua",
 				"Rust",
 				"Zig",
 				"Golang",
