@@ -2,6 +2,7 @@
 	"firstName": "Binh",
 	"middleName": "Duc",
 	"lastName": "Tran",
+	"job": "Fullstack Developer & Automation Tester",
 	"address": "District 12, Ho Chi Minh City, Vietnam",
 	"phone": {
 		"value": "+84 8 32 30 61 05",
@@ -23,7 +24,6 @@
 		"value": "binhtran432k.com",
 		"url": "https://binhtran432k.com"
 	},
-	"job": "Fullstack Developer | Automation Tester",
 	"summary": "Self-taught developer with 3+ years of experience, actively contributing to open-source projects. Possesses strong versatility across frontend, backend, testing, and automation. Enjoys learning, collaboration, and experimenting with new technologies. Passionate about fostering a positive, inclusive development environment.",
 	"avatar": {
 		"url": "https://binhtran432k.github.io/binhtran432k/assets/avatar.jpg",
