@@ -1,7 +1,7 @@
 {
 	"widgets": [
 		{
-			"imageUrl": "https://binhtran432k.github.io/binhtran432k/assets/logos/cucumber.svg",
+			"imageUrl": "/binhtran432k/assets/logos/cucumber.svg",
 			"title": "Open Cucumber Organization",
 			"subtitle": "Committer",
 			"location": "Online",
@@ -14,7 +14,7 @@
 			]
 		},
 		{
-			"imageUrl": "https://binhtran432k.github.io/binhtran432k/assets/logos/nashtech.svg",
+			"imageUrl": "/binhtran432k/assets/logos/nashtech.svg",
 			"title": "NashTech",
 			"subtitle": "Automation Tester",
 			"timeline": "Sep 2022 - Dec 2022",
@@ -29,7 +29,7 @@
 			]
 		},
 		{
-			"imageUrl": "https://binhtran432k.github.io/binhtran432k/assets/logos/fsoft.svg",
+			"imageUrl": "/binhtran432k/assets/logos/fsoft.svg",
 			"title": "FPT Software",
 			"subtitle": "Java Web Developer",
 			"timeline": "Jun 2021 - Dec 2021",
