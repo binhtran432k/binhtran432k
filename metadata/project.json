@@ -5,7 +5,7 @@
 			"subtitle": "Author & Maintainer",
 			"items": [
 				"Source Code: <a href='https://github.com/binhtran432k/cv' target='_blank'>github.com/binhtran432k/cv</a>",
-				"Deployed Site: <a href='https://binhtran432k.com' target='_blank'>binhtran432k.com</a>",
+				"Deployed Site: <a href='https://cv.binhtran432k.com' target='_blank'>cv.binhtran432k.com</a>",
 				"Description: Personal Curriculum Vitae using Qwik with browser print compatibility",
 				"Feature: Static Site Generation | Server Site Rendering | Browser Printing | Github Page Deployment",
 				"Technology: Qwik/Qwik City | Vite | Typescript | Bun | Semantic Release | CI/CD"
